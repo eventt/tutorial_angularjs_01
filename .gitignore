@@ -42,17 +42,9 @@ jspm_packages
 ###########################
 
 # App generated files
-public/app/*
-public/js/*
-public/css/style.min.css
 *.old
 typings/
 
 # MACOS
 .DS_Store
 
-app/backend/**/*.js
-app/backend/**/*.js.map
-
-apidoc/*
-public/css/style.css
